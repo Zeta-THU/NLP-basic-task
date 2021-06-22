@@ -35,7 +35,7 @@ a to b like c to __ 例如:
 man-->woman like boy --> girl
 small-->smaller like large --> larger
 italy-->italian like china --> chinese
-Japan-->Tokyo like China --> taipei (怕不是要杀头 ORZ)
+Japan-->Tokyo like China --> taipei
 ```
 
 
